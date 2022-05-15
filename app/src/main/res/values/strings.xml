@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="search_hint">Search Images</string>
+    <string name="results_couldn_t_be_loaded">Results couldn\'t be loaded</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="do_you_want_to_quit_app">Do you want to quit app?</string>
+</resources>

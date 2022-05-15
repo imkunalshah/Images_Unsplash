@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/dialog_rounded.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_close.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_up.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/search_edit_text_cursor.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/backgroun_bottom_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/background_bottom_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/footer.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/fragment_dialog_fullscreen.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/fragment_quit_app_dialog.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/layout_image.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/loader.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.24791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
